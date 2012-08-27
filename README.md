@@ -4,7 +4,7 @@ bootstrap-initializr
 Initializr updated with latest Bootstrap (2.1)
 
 
-## update initializr's bootstrap with latest bootstrap version from repo
+### update initializr's bootstrap with latest bootstrap version from repo
  
 1.  Download Initializr with Bootstrap ([Main Page][1], [Direct Download][2]).
 
