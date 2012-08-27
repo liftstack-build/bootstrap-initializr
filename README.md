@@ -13,10 +13,10 @@ Initializr updated with latest Bootstrap (2.1)
 3.  Run the [combine-bootstrap-initializr.sh script][5] from the same directory, 
 specifying custom locations via command line arg if necessary:
 
--bootstrap:     default is ./submodules/bootstrap
--initializr:    default is ./initializr
--temp:          default is ./temp
--target:        default is ./target
+    -bootstrap:     default is ./submodules/bootstrap
+    -initializr:    default is ./initializr
+    -temp:          default is ./temp
+    -target:        default is ./target
 
 This simply copies all files in bootstrap/js, bootstrap/less, and bootstrap/img to their 
 respective directories in initializr's slightly customized directory structure, 
